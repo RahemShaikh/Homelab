@@ -20,7 +20,7 @@ After connecting the Raspberry Pi to the network through Ethernet, the router's 
 
 I accessed the router's administration interface and created a DHCP reservation for the Raspberry Pi using its Ethernet MAC address. This ensures the device receives the same IP address whenever it reconnects to the network.
 
-![DHCP Reservation](Images/router-dhcp-reservation.png)
+![DHCP Reservation](../Images/router-dhcp-reservation.png)
 
 ## Verification
 

@@ -41,7 +41,7 @@ Using both IPv4 and IPv6 ensures that DNS requests through either protocol can b
 
 DNS over HTTPS (DoH) encrypts DNS queries using HTTPS. I disabled this setting for both IPv4 and IPv6 to keep the initial configuration straightforward and ensure Windows uses the DNS servers I specified.
 
-![Windows 11 DNS Configuration](Images/my-pc-config.png)
+![Windows 11 DNS Configuration](../Images/my-pc-config.png)
 
 ## Verification
 

@@ -1,4 +1,4 @@
-# 01 - Hardware and OS
+﻿# 01 - Hardware and OS
 
 ## Overview
 Prepare and provision a Raspberry Pi for use as a dedicated Pi-hole DNS server.
@@ -25,7 +25,7 @@ Used Raspberry Pi Imager to install Raspberry Pi OS onto the SD card.
 
 ## Imager
 
-![Raspberry Pi Imager](Images/pi-imaging.png)
+![Raspberry Pi Imager](../Images/pi-imaging.png)
 
 ## Initial Access
 
@@ -41,7 +41,7 @@ ssh homelab@pihole
 
 The device was successfully accessed using its hostname.
 
-![SSH Remote Access](images/ssh.png)
+![SSH Remote Access](../Images/ssh.png)
 
 ## Verification
 

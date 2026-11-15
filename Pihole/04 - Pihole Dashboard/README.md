@@ -17,7 +17,7 @@ The IP address above is the Raspberry Pi's reserved Ethernet address or you coul
 
 After opening the URL, I logged in using the password configured during installation.
 
-![Empty Pi-hole Dashboard](Images/first-login-to-admin-page.png)
+![Empty Pi-hole Dashboard](../Images/first-login-to-admin-page.png)
 
 ## Dashboard Overview
 
@@ -38,15 +38,15 @@ The Query Log provides a more detailed view of individual DNS requests. It displ
 
 This is useful for troubleshooting DNS issues and understanding which domains devices are requesting.
 
-![Empty Pi-hole Query Log](Images/initial-query-log.png)
+![Empty Pi-hole Query Log](../Images/initial-query-log.png)
 
 ## Populated Dashboard and Query Log
 
 Having end devices DNS configured to Pihole, this is what the populated data looks.
 
-![Populated Pi-hole Dashboard](Images/populated-dash.png)
+![Populated Pi-hole Dashboard](../Images/populated-dash.png)
 
-![Populated Pi-hole Query Log](Images/populated-query-log.png)
+![Populated Pi-hole Query Log](../Images/populated-query-log.png)
 
 ## What I Learned
 

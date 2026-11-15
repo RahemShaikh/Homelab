@@ -54,7 +54,7 @@ The following settings were selected during the installation wizard:
 
 After completing the installation wizard, Pi-hole displayed a confirmation screen containing the installation details and web interface information.
 
-![Pi-hole Installation Completion](Images/complete-install-pihole.png)
+![Pi-hole Installation Completion](../Images/complete-install-pihole.png)
 
 The installation was successfully completed, and the Pi-hole web administration interface was made available for further configuration and monitoring.
 
