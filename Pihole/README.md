@@ -40,19 +40,19 @@ lab-07-pihole/
 │
 ├── README.md
 │
-├── 01-initial-setup/
+├── 01 - Hardware and OS/
 │   └── README.md
 │
-├── 02-network-configuration/
+├── 02 - Network Configuration/
 │   └── README.md
 │
-├── 03-pihole-installation/
+├── 03 - Pihole Installation/
 │   └── README.md
 │
-├── 04-pihole-dashboard/
+├── 04 - Pihole Dashboard/
 │   └── README.md
 │
-├── 05-end-device-configuration/
+├── 05 - End Device Configuration/
 │   └── README.md
 │
 └── Images/
@@ -63,11 +63,11 @@ lab-07-pihole/
 
 | Section | Description |
 |---|---|
-| [01 - Initial Setup](01-initial-setup/) | Raspberry Pi OS installation, initial provisioning, and remote SSH access. |
-| [02 - Network Configuration](02-network-configuration/) | Ethernet connectivity, IP addressing, and DHCP reservation. |
-| [03 - Pi-hole Installation](03-pihole-installation/) | Operating system updates, Pi-hole installation, and initial configuration. |
-| [04 - Pi-hole Dashboard](04-pihole-dashboard/) | Accessing the web interface, monitoring DNS statistics, and reviewing query logs. |
-| [05 - End Device Configuration](05-end-device-configuration/) | Configuring Windows 11 to use Pi-hole as its IPv4 and IPv6 DNS server. |
+| [01 - Hardware and OS](01%20-%20Hardware%20and%20OS/README.md) | Raspberry Pi OS installation, initial provisioning, and remote SSH access. |
+| [02 - Network Configuration](02%20-%20Network%20Configuration/README.md) | Ethernet connectivity, IP addressing, and DHCP reservation. |
+| [03 - Pi-hole Installation](03%20-%20Pihole%20Installation/README.md) | Operating system updates, Pi-hole installation, and initial configuration. |
+| [04 - Pi-hole Dashboard](04%20-%20Pihole%20Dashboard/README.md) | Accessing the web interface, monitoring DNS statistics, and reviewing query logs. |
+| [05 - End Device Configuration](05%20-%20End%20Device%20Configuration/README.md) | Configuring Windows 11 to use Pi-hole as its IPv4 and IPv6 DNS server. |
 
 ## Technologies & Tools
 
